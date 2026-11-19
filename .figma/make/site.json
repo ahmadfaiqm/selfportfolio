@@ -2,7 +2,7 @@
   "title": "Ahmad Faiq Portfolio",
   "description": "An interactive portfolio showcasing a full-stack engineer’s projects, technical expertise, and design skills through immersive scrollytelling and parallax motion.",
   "robots": {
-    "index": false
+    "index": true
   },
   "icons": {
     "icon": ""
